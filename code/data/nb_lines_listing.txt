@@ -1,0 +1,13 @@
+  247 total
+   95 ./plots/tree.csv
+   23 ./paleo-mammals-v3.txt
+   23 ./paleo-mammals-v2.txt
+   23 ./paleo-mammals.txt
+   23 ./mammals/paleo-mammals-v3.txt
+   23 ./mammals/paleo-mammals-v2.txt
+   23 ./mammals/paleo-mammals.txt
+   10 ./plots/stem.csv
+    4 ./count_lines.sh
+    0 ./nb_lines_listing.txt
+    0 ./.DS_Store
+    0 ./data_listing.txt
